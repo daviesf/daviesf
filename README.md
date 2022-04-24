@@ -1,7 +1,7 @@
 So, I'm Davie and I'm a student at Unicamp.
 <div align="center">
   <a href="https://github.com/vulgoDavie">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SamukaCode&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vulgoDavie&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
     
 </div>
   <div align="center" style="display: inline_block"><br>
