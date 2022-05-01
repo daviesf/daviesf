@@ -1,6 +1,6 @@
 ## Hi there 👋, I am Davie
 #### I'm a student at Unicamp.
-I study Systems Development and I'm on Git Hub to study codes and store the ones I'm making.
+I study Systems Development and I'm on Github to study codes and store the ones I'm making.
 
 - 🔭 I’m currently working on a web project. 
 - 🌱 I’m currently learning C#, HTML, CSS, JS and Java 
