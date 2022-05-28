@@ -3,7 +3,7 @@
 I study Systems Development and I'm on Github to study codes and store the ones I'm making.
 
 - 🔭 I’m currently working on a web project. 
-- 🌱 I’m currently learning C#, HTML, CSS, JS and Java 
+- 🌱 I’m currently learning C#, HTML, CSS, JavaScript and Java.
 - 💬 Ask me about everything you want. 
 - 📫 How to reach me: send an e-mail to cl201275@g.unicamp.br
 
