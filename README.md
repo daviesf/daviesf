@@ -3,7 +3,7 @@
 <img src="https://user-images.githubusercontent.com/507615/90595977-95e70e80-e220-11ea-864a-6a61adaff212.png"/>
 #### Scrat vai ficar no meu perfil por um tempinho enquanto não é utilizado profissionalmente.
 
-#### I'm a student at Unicamp.
+<h4>I'm a student at Unicamp.</h4>
 
 - 🔭 I’m currently working on a web project. 
 - 🌱 I’m currently learning C#, HTML, CSS, JavaScript and Java.
