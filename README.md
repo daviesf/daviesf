@@ -1,19 +1,17 @@
-## Hi there! I am Davie. 👋
+## Olá. Davie aqui! 👋
 
 <img src="https://user-images.githubusercontent.com/507615/90595977-95e70e80-e220-11ea-864a-6a61adaff212.png"/>
 ##### Scrat vai ficar no meu perfil por um tempinho enquanto não é utilizado profissionalmente.
 
 #### I'm a student at Unicamp.
-I study Systems Development and I'm on Github to study codes and store the ones I'm making.
 
 - 🔭 I’m currently working on a web project. 
 - 🌱 I’m currently learning C#, HTML, CSS, JavaScript and Java.
-- 💬 Ask me about everything you want. 
-- 📫 Send an e-mail to cl201275@g.unicamp.br
+- 📫 Contact: cl201275@unicamp.br
 
 <br>
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=vulgoDavie&show_icons=true&theme=github_dark&count_private=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=daviesf&show_icons=true&theme=github_dark&count_private=true"/>
   </div>
   <div align="center" style="display: inline_block">
   
