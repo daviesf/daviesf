@@ -1,6 +1,6 @@
-## Davie aqui! 👋
+## Olá! 👋
 
-Estudante. 
+An Unicamp Student.
 <br>
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=daviesf&show_icons=true&theme=github_dark&count_private=true"/>
