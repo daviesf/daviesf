@@ -1,4 +1,4 @@
-## Oi! 👋
+## Olá! 👋
 
 Estudante do COTIL/UNICAMP. 👨‍🎓
 <br>
@@ -7,5 +7,6 @@ Estudante do COTIL/UNICAMP. 👨‍🎓
   </div>
   <div align="center" style="display: inline_block">
 <br><br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daviesf&layout=compact&theme=github_dark"/>
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
        
