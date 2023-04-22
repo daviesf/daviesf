@@ -7,5 +7,5 @@ Estudante do COTIL/UNICAMP. 👨‍🎓
   </div>
   <div align="center" style="display: inline_block">
 <br><br>
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=daviesf"/>
-       
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daviesf&theme=github_dark"/>
+      
