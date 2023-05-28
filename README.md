@@ -10,5 +10,5 @@ Estudos em PHP, Flutter e Arduino estão em andamento!
   </div>
   <div align="center" style="display: inline_block">
 <br><br>
-<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gs1lver&layout=compact&langs_count=16&theme=github_dark">
+<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daviesf&layout=compact&langs_count=10&theme=github_dark">
       
